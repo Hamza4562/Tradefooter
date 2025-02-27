@@ -1,0 +1,39 @@
+.footer{
+    background-color: aqua;
+    display: flex;
+    width: 100vw;
+    height: auto;
+    justify-content: space-between;
+    padding: 4vh;
+    
+}
+.footerLeft{
+    
+}
+.footerRight{
+    background-color: blueviolet;
+}
+.footerMiddle{
+    background-color: brown;
+}
+.address h4 {
+    font-size: 2.4vh;
+    width: 26vw;
+    font-weight: 300;
+    
+    
+}
+.Logo img{
+    height: 6.5vh;
+}
+.Socialicon{
+    display: flex;
+    align-items: center;
+    gap: 2vh;
+    
+}
+.Social{
+    font-size: 3vh;
+    
+}
+
