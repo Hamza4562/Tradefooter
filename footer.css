@@ -30,10 +30,60 @@
     display: flex;
     align-items: center;
     gap: 2vh;
-    
 }
 .Social{
     font-size: 3vh;
     
 }
 
+.footerMiddle h4{
+    font-weight: 300;
+
+}
+.GetinTouch h3{
+    font-size: 5vh;
+    font-weight: 300;
+    text-align: center;
+    
+}
+.rightBottom{
+    display: flex;
+    gap: 4vh;
+
+    
+    
+}
+.rightBottom1{
+    display: flex;
+    flex-direction: column;
+
+    
+}
+.rightBottom2{
+    display:flex;
+    flex-direction: column;
+    
+}
+.rightMiddle{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3vh;
+}
+.rightBottom input{
+    height: 6vh;
+    width: 15vw;
+    border: 1px solid blue;
+    
+    
+}
+.rightMiddle textarea{
+    height: 13vh;
+    border: 1px solid blue;
+}
+.GetButton button{
+    background-color: blue;
+    color: white;
+    margin-top: 2vh;
+    height: 6vh;
+    width: 30vw;
+}
